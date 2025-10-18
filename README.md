@@ -8,7 +8,8 @@ This repository contains solutions to various coding problems solved by **Somya*
 
 | Date | Problem Name | Platform | Link |
 |------|---------------|-----------|------|
-| 13.10.01 | Reverse the Array | Code360 | [🔗 Problem Link](https://www.naukri.com/code360/problems/reverse-the-array_1262298) |
+| 13.10.01 | Reverse the Array | Code360 | [🔗 Problem Link](https://www.naukri.com/code360/problems/reverse-the-array_1262298) | [View Solution for 13.10.01](https://github.com/somya-singh766/solving-questions/blob/main/13.10.01)
+
 | 13.10.02 | Finding maximum and minimum elements | Leetcode | [🔗 Problem Link](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/) |
 | 13.10.03 | Running Sum of 1D array | LeetCode | [🔗 Problem Link](https://leetcode.com/problems/running-sum-of-1d-array/description/) |
 | 13.10.04 | Count Elements with maximum frequency | LeetCode | [🔗 Problem Link](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) |
