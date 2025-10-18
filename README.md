@@ -36,13 +36,151 @@ This repository contains solutions to various coding problems solved by **Somya*
 | 14.10.07 | printing increasing, decreasing and Decreasing Increasing | GFG | [🔗 Problem Link](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.07.cpp) |
 | 14.10.08 | Count digits | GFG | [🔗 Problem Link](https://www.geeksforgeeks.org/problems/count-digits5716/0) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.08.cpp) |
 | 14.10.09 | Sum of array | GFG | [🔗 Problem Link](https://www.geeksforgeeks.org/problems/sum-of-array2326/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.09.cpp) |
-| 14.10.10 | Count digits | GFG | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.10.cpp) |
-| 14.10.11 | Count digits | GFG | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.11.cpp) |
-| 14.10.12 | Count digits | GFG | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.12.cpp) |
-| 14.10.13 | Count digits | GFG | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.12.cpp) |
-| 14.10.14 | Count digits | GFG | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.12.cpp) |
-| 14.10.15 | Count digits | GFG | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.12.cpp) |
-| 14.10.16 | Count digits | GFG | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.12.cpp) |
+| 14.10.10 | find pivot index | Leetcode | [🔗 Problem Link](https://leetcode.com/problems/find-pivot-index/description/) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/13.10.09.cpp) |
+| 14.10.11 | remove duplicates | Coding ninjas | [🔗 Problem Link](https://www.naukri.com/code360/problems/remove-duplicates-from-sorted-array_1102307?interviewProblemRedirection=true&search=remove%20duplicates) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.11.cpp) |
+| 14.10.12 | fibonacci number | GFG | [🔗 Problem Link](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.12.cpp) |
+| 14.10.13 | Tower Of Hanoi | GFG | [🔗 Problem Link](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.13.cpp) |
+| 14.10.14 | Spiral traversal | Leetcode | [🔗 Problem Link](https://leetcode.com/problems/spiral-matrix/description/) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.14.cpp) |
+| 14.10.15 | searching elements in a matrix | Leetcode | [🔗 Problem Link](https://leetcode.com/problems/search-a-2d-matrix/description/) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.15.cpp) |
+| 14.10.16 | Printing elements in sorted order | Leetcode | [🔗 Problem Link](https://leetcode.com/problems/sort-an-array/description/) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.16.cpp) |
+| 14.10.17 | Finding median in row-wise sorted matrix | Leetcode | [🔗 Problem Link](https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/description/) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.17.cpp) |
+| 14.10.18 | identifying rows with maximum 1s | Leetcode | [🔗 Problem Link](https://leetcode.com/problems/row-with-maximum-ones/description/) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.18.cpp) |
+| 14.10.19 | rotating matrices by 90 degrees | Leetcode | [🔗 Problem Link](https://leetcode.com/problems/rotate-image/description/) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/14.10.19.cpp) |
+| 15.10.01 | add Node on any position | Leetcode | [🔗 Problem Link](https://leetcode.com/problems/design-linked-list/description/) • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.01.cpp) |
+| 15.10.02 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.02.cpp) |
+| 15.10.03 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.03.cpp) |
+| 15.10.04 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.04.cpp) |
+| 15.10.05 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.05.cpp) |
+| 15.10.06 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.06.cpp) |
+| 15.10.07 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.07.cpp) |
+| 15.10.08 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.08.cpp) |
+| 15.10.09 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.09.cpp) |
+| 15.10.10 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.10.cpp) |
+| 15.10.11 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.11.cpp) |
+| 15.10.12 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.12.cpp) |
+| 15.10.13 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.13.cpp) |
+| 15.10.14 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.14.cpp) |
+| 15.10.15 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/15.10.15.cpp) |
+| 16.10.01 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/16.10.01.cpp) |
+| 16.10.02 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/16.10.02.cpp) |
+| 16.10.03 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/16.10.03.cpp) |
+| 16.10.04 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/16.10.04.cpp) |
+| 16.10.05 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/16.10.05.cpp) |
+| 16.10.06 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/16.10.06.cpp) |
+| 16.10.07 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/16.10.07.cpp) |
+| 16.10.08 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/16.10.08.cpp) |
+| 16.10.09 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/16.10.09.cpp) |
+| 16.10.10 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/16.10.10.cpp) |
+| 16.10.11 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/16.10.11.cpp) |
+| 16.10.12 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/16.10.12.cpp) |
+| 17.10.01 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.01.cpp) |
+| 17.10.02 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.02.cpp) |
+| 17.10.03 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.03.cpp) |
+| 17.10.04 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.04.cpp) |
+| 17.10.05 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.05.cpp) |
+| 17.10.06 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.06.cpp) |
+| 17.10.07 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.07.cpp) |
+| 17.10.08 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.08.cpp) |
+| 17.10.09 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.09.cpp) |
+| 17.10.10 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.10.cpp) |
+| 17.10.11 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.11.cpp) |
+| 17.10.12 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.12.cpp) |
+| 17.10.13 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.13.cpp) |
+| 17.10.14 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.14.cpp) |
+| 17.10.15 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/17.10.15.cpp) |
+| 18.10.01 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/18.10.01.cpp) |
+| 18.10.02 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/18.10.02.cpp) |
+| 18.10.03 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/18.10.03.cpp) |
+| 18.10.04 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/18.10.04.cpp) |
+| 18.10.05 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/18.10.05.cpp) |
+| 18.10.06 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/18.10.06.cpp) |
+| 18.10.07 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/18.10.07.cpp) |
+| 18.10.08 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/18.10.08.cpp) |
+| 18.10.09 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/18.10.09.cpp) |
+| 18.10.10 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/18.10.10.cpp) |
+| 18.10.11 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/18.10.11.cpp) |
+| 18.10.12 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/18.10.12.cpp) |
+| 19.10.01 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/19.10.01.cpp) |
+| 19.10.02 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/19.10.02.cpp) |
+| 19.10.03 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/19.10.03.cpp) |
+| 19.10.04 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/19.10.04.cpp) |
+| 19.10.05 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/19.10.05.cpp) |
+| 19.10.06 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/19.10.06.cpp) |
+| 19.10.07 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/19.10.07.cpp) |
+| 19.10.08 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/19.10.08.cpp) |
+| 20.10.01 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/20.10.01.cpp) |
+| 20.10.02 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/20.10.02.cpp) |
+| 20.10.03 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/20.10.03.cpp) |
+| 20.10.04 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/20.10.04.cpp) |
+| 20.10.05 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/20.10.05.cpp) |
+| 20.10.06 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/20.10.06.cpp) |
+| 20.10.07 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/20.10.07.cpp) |
+| 20.10.08 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/20.10.08.cpp) |
+| 20.10.09 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/20.10.09.cpp) |
+| 20.10.10 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/20.10.10.cpp) |
+| 20.10.11 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/20.10.11.cpp) |
+| 21.10.01 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.01.cpp) |
+| 21.10.02 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.02.cpp) |
+| 21.10.03 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.03.cpp) |
+| 21.10.04 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.04.cpp) |
+| 21.10.05 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.05.cpp) |
+| 21.10.06 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.06.cpp) |
+| 21.10.07 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.07.cpp) |
+| 21.10.08 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.08.cpp) |
+| 21.10.09 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.09.cpp) |
+| 21.10.10 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.10.cpp) |
+| 21.10.11 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.11.cpp) |
+| 21.10.12 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.12.cpp) |
+| 21.10.13 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.13.cpp) |
+| 21.10.14 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.14.cpp) |
+| 21.10.15 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.15.cpp) |
+| 21.10.16 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.16.cpp) |
+| 21.10.17 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.17.cpp) |
+| 21.10.18 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/21.10.18.cpp) |
+| 22.10.01 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/22.10.01.cpp) |
+| 22.10.02 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/22.10.02.cpp) |
+| 22.10.03 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/22.10.03.cpp) |
+| 22.10.04 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/22.10.04.cpp) |
+| 22.10.05 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/22.10.05.cpp) |
+| 22.10.06 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/22.10.06.cpp) |
+| 22.10.07 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/22.10.07.cpp) |
+| 22.10.08 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/22.10.08.cpp) |
+| 22.10.09 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/22.10.09.cpp) |
+| 23.10.01 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.01.cpp) |
+| 23.10.02 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.02.cpp) |
+| 23.10.03 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.03.cpp) |
+| 23.10.04 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.04.cpp) |
+| 23.10.05 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.05.cpp) |
+| 23.10.06 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.06.cpp) |
+| 23.10.07 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.07.cpp) |
+| 23.10.08 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.08.cpp) |
+| 23.10.09 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.09.cpp) |
+| 23.10.10 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.10.cpp) |
+| 23.10.11 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.11.cpp) |
+| 23.10.12 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.12.cpp) |
+| 23.10.13 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/23.10.13.cpp) |
+| 24.10.01 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/24.10.01.cpp) |
+| 24.10.02 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/24.10.02.cpp) |
+| 24.10.03 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/24.10.03.cpp) |
+| 24.10.04 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/24.10.04.cpp) |
+| 24.10.05 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/24.10.05.cpp) |
+| 25.10.01 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/25.10.01.cpp) |
+| 25.10.02 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/25.10.02.cpp) |
+| 25.10.03 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/25.10.03.cpp) |
+| 25.10.04 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/25.10.04.cpp) |
+| 25.10.05 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/25.10.05.cpp) |
+| 25.10.06 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/25.10.06.cpp) |
+| 25.10.07 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/25.10.07.cpp) |
+| 25.10.08 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/25.10.08.cpp) |
+| 26.10.01 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/26.10.01.cpp) |
+| 26.10.02 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/26.10.02.cpp) |
+| 26.10.03 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/26.10.03.cpp) |
+| 26.10.04 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/26.10.04.cpp) |
+| 26.10.05 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/26.10.05.cpp) |
+| 26.10.06 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/26.10.06.cpp) |
+| 26.10.07 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/26.10.07.cpp) |
+| 26.10.08 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/26.10.08.cpp) |
+| 27.10.01 | add Node on any position | Leetcode | [🔗 Problem Link]() • [💻 View Solution](https://github.com/somya-singh766/solving-questions/blob/main/27.10.01.cpp) |
 
 ---
 
@@ -51,5 +189,3 @@ This repository contains solutions to various coding problems solved by **Somya*
 
 ---
 
-## 💡 How to Use
-Each file name follows the pattern:
