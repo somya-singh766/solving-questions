@@ -12,14 +12,21 @@
 class Solution {
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        if(!root) return 0;
-        int left = DFS(root->left);
-        int right = DFS(root->right);
-        return max(left + right, max(diameterOfBinaryTree(root->left), diameterOfBinaryTree(root->right)));
+        int diameter = 0;
+        DFS(root, diameter);
+        return diameter;
     }
     
-    int DFS(TreeNode* root){
-        if(!root) return 0;
-        return 1 + max(DFS(root->left), DFS(root->right));
+    int DFS(TreeNode* root, int &diameter) {
+        if (!root) return 0;
+        
+        int left = DFS(root->left, diameter);
+        int right = DFS(root->right, diameter);
+        
+        // update diameter at this node
+        diameter = max(diameter, left + right);
+        
+        // return height of current node
+        return 1 + max(left, right);
     }
 };
